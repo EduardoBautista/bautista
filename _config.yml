@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I am a freelance software developer and I blog about the stuff I am thinking
   about.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eduardobautista.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 twitter_username: IamTheEddy
 github_username:  EduardoBautista
