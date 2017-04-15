@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Contact
-date: '2016-11-14 20:54:41'
+permalink: /contact/
 ---
 
 If you need to contact me for anything, this is how you can find me:

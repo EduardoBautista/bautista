@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+Hello there!  It appears you have an interest in knowing more about me.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* I am a freelance software engineer.
+* I currently use Ruby for most of my projects.
+* I am also learning Elixir and Phoenix.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can visit my [contact](https://eduardobautista.com/contact/) page if you want to send me a message.
