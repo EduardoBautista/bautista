@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+I am currently looking for part-time projects to work on.
+
 If you need to contact me for anything, this is how you can find me:
 
 * **Email:** [me@eduardobautista.com](mailto:me@eduardobautista.com)
