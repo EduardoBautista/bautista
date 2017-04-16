@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-I am currently looking for part-time projects to work on.
+I am currently looking for part-time projects to work on.  My current rate is $75 USD per hour.
 
 If you need to contact me for anything, this is how you can find me:
 
