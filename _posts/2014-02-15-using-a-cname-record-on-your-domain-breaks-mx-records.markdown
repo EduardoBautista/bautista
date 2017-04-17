@@ -8,7 +8,9 @@ tags:
 
 ~~**Update:** I am no longer using Ghost and have switched to Jekyll, but this is still useful for anyone that might run into the same problem.~~
 
-**Update #2:** I switched back to Ghost.  They now offer a desktop app which I believe is awesome.
+~~**Update #2:** I switched back to Ghost.  They now offer a desktop app which I believe is awesome.~~
+
+**Update #3 (2017-04-17):** I switched back to Jekyll.  A static site handles heavy loads with ease.
 
 I am using the [Ghost hosted platform](https://ghost.org/pricing/).  They support custom domains and I wanted to use my root domain (eduardobautista.com) instead of a subdomain (www.eduardobautista.com).  Ghost advises against doing this but I was not sure why; they are not that clear about the reason.
 
