@@ -23,7 +23,7 @@ One of the settings that really slowed my Vim down, was the `relativenumber` set
 
 Other parts of Vim I just never really understood.  Swap files have always annoyed me and I would disable them.  When I would edit a file, Vim wouldn't automatically reload it without me doing it manually (and only realizing I need to do this after editing a file).  In order to automaticall reload files you need to add a line or two in your `.vimrc` to look for watch for file changes then reload.  It's not a simple one line setting.  I never tried it because I was worried about slowing down the editor.
 
-Also, very few people actually use Vim to its potential.  "With Vim you never have to use a keyboard" is not a good argument.  Any popular editor usually has a "Vim mode" that you can install and you can achieve native Vim productivity.  If you want to convince someone to specifically use the actual editor Vim, being mouseless is not going to work if they can already emulate Vim commands in their editor.
+Also, very few people actually use Vim to its potential.  "With Vim you never have to use a mouse" is not a good argument.  Any popular editor usually has a "Vim mode" that you can install and you can achieve native Vim productivity.  If you want to convince someone to specifically use the actual editor Vim, being mouseless is not going to work if they can already emulate Vim commands in their editor.
 
 And probably the most superficial and shallow reason I switched: I want prettier font rendering.  I didn't spend money on a retina Macbook Pro to be limited to 256 colors.
 
