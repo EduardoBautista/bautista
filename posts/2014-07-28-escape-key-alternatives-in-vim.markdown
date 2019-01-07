@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Escape key alternatives in Vim
 date: '2014-07-28 01:23:00'
 tags:

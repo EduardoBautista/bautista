@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Switching from Qwerty to Colemak
 date: '2014-03-09 18:28:00'
 ---

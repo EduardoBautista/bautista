@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Switching to Sublime Text from Vim in 2017
 ---
 

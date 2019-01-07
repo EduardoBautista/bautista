@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Excluding Frontend Assets on Phoenix Apps
 date: '2016-08-12 19:30:00'
 tags:

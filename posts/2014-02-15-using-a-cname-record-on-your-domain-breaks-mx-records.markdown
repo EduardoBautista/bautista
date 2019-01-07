@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Using a CNAME Record on your Root Domain Breaks MX records
 date: '2014-02-15 19:54:00'
 tags:

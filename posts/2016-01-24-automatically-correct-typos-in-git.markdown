@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Automatically correct typos in Git
 date: '2016-01-24 20:33:00'
 tags:
