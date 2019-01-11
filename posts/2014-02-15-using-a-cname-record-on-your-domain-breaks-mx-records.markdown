@@ -9,7 +9,9 @@ tags:
 
 ~~**Update #2:** I switched back to Ghost.  They now offer a desktop app which I believe is awesome.~~
 
-**Update #3 (2017-04-17):** I switched back to Jekyll.  A static site handles heavy loads with ease.
+~~**Update #3 (2017-04-17):** I switched back to Jekyll.  A static site handles heavy loads with ease.~~
+
+**Update #4 (2019-01-11):** I switched to [Hakyll](https://jaspervdj.be/hakyll/) for the faster compile time.
 
 I am using the [Ghost hosted platform](https://ghost.org/pricing/).  They support custom domains and I wanted to use my root domain (eduardobautista.com) instead of a subdomain (www.eduardobautista.com).  Ghost advises against doing this but I was not sure why; they are not that clear about the reason.
 
