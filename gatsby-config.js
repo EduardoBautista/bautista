@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Eduardo Bautista`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Eduardo Bautista`,
+      summary: `who is a freelance Software Engineer living Guadalajara, Mexico.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Eduardo Bautista's personal blog.`,
+    siteUrl: `https://www.eduardobautista.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TheEduardoB`,
     },
   },
   plugins: [
@@ -79,5 +79,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-no-javascript`
   ],
 }

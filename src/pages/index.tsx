@@ -21,6 +21,7 @@ type Data = {
           title: string
           date: string
           description: string
+          hide: boolean
         }
         fields: {
           slug: string
@@ -32,7 +33,9 @@ type Data = {
 
 const BlogIndex = ({ data, location }: PageProps<Data>) => {
   const siteTitle = data.site.siteMetadata.title
-  const posts = data.allMarkdownRemark.edges
+  const posts = data.allMarkdownRemark.edges.filter(({ node }) => (
+    !node.frontmatter.hide
+  ))
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -88,6 +91,7 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
             title
             description
+            hide
           }
         }
       }
