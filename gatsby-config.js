@@ -3,7 +3,10 @@ module.exports = {
     title: `Eduardo Bautista`,
     author: {
       name: `Eduardo Bautista`,
-      summary: `who is a freelance Software Engineer living Guadalajara, Mexico.`,
+      summary: `
+        who is a freelance Software Engineer living Guadalajara, Mexico.  Get in
+        touch if you have a React, Node.js, or Rails project you need help on.
+      `,
     },
     description: `Eduardo Bautista's personal blog.`,
     siteUrl: `https://www.eduardobautista.com`,
