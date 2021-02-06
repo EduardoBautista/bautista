@@ -5,7 +5,7 @@ module.exports = {
       name: `Eduardo Bautista`,
       summary: `
         who is a freelance Software Engineer living Guadalajara, Mexico.  Send
-        me an email (eduardo [at] betareduction.io) if you have a React, Node.js,
+        him an email (eduardo [at] betareduction.io) if you have a React, Node.js,
         or Rails project you need help on.
       `,
     },
