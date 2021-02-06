@@ -4,14 +4,15 @@ module.exports = {
     author: {
       name: `Eduardo Bautista`,
       summary: `
-        who is a freelance Software Engineer living Guadalajara, Mexico.  Get in
-        touch if you have a React, Node.js, or Rails project you need help on.
+        who is a freelance Software Engineer living Guadalajara, Mexico.  Send
+        me an email (eduardo [at] betareduction.io) if you have a React, Node.js,
+        or Rails project you need help on.
       `,
     },
     description: `Eduardo Bautista's personal blog.`,
-    siteUrl: `https://www.eduardobautista.com`,
+    siteUrl: `https://www.bautista.dev`,
     social: {
-      twitter: `TheEduardoB`,
+      twitter: `BautistaEdev`,
     },
   },
   plugins: [
