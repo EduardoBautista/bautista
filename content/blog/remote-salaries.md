@@ -1,5 +1,5 @@
 ---
-title: What Companies get Wrong about Remote Salaries
+title: What Companies Get Wrong about Remote Salaries
 date: "2021-02-06"
 ---
 
