@@ -12,7 +12,7 @@ module.exports = {
     description: `Eduardo Bautista's personal blog.`,
     siteUrl: `https://www.bautista.dev`,
     social: {
-      twitter: `BautistaEdev`,
+      twitter: `BautistaDev`,
     },
   },
   plugins: [
